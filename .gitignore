@@ -1,0 +1,13 @@
+# Signing keys - NEVER commit these. Back up wotdsolver-release.keystore
+# separately; it is required to publish updates as the same app.
+*.keystore
+*.jks
+
+# Manual build outputs
+build/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.iml
+.idea/
