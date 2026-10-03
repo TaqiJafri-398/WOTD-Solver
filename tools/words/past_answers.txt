@@ -1,0 +1,25 @@
+# Known past Binance WODL answers (user-provided). Highest ranking tier.
+token
+market
+trading
+investor
+issuance
+capital
+equity
+settle
+price
+chain
+stock
+trade
+share
+value
+offer
+asset
+issue
+access
+coin
+defi
+fund
+ipo
+kyc
+web
