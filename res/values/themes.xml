@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WotdSolver.Dark" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:textColorPrimary">@color/text_dark</item>
+        <item name="android:textColorSecondary">@color/text_secondary_dark</item>
+        <item name="android:colorAccent">@color/binance_yellow</item>
+        <item name="android:colorPrimary">@color/bg_dark</item>
+        <item name="android:colorPrimaryDark">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:editTextColor">@color/text_dark</item>
+        <item name="android:editTextBackground">@color/card_dark</item>
+        <item name="cardBackground">@color/surface_dark</item>
+        <item name="cardStroke">@color/stroke_dark</item>
+        <item name="accentSoft">@color/accent_soft</item>
+    </style>
+
+    <style name="Theme.WotdSolver.Light" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/bg_light</item>
+        <item name="android:textColorPrimary">@color/text_light</item>
+        <item name="android:textColorSecondary">@color/text_secondary_light</item>
+        <item name="android:colorAccent">@color/binance_yellow</item>
+        <item name="android:colorPrimary">@color/bg_light</item>
+        <item name="android:colorPrimaryDark">@color/bg_light</item>
+        <item name="android:statusBarColor">@color/bg_light</item>
+        <item name="android:navigationBarColor">@color/bg_light</item>
+        <item name="android:editTextColor">@color/text_light</item>
+        <item name="android:editTextBackground">@color/card_light</item>
+        <item name="cardBackground">@color/surface_light</item>
+        <item name="cardStroke">@color/stroke_light</item>
+        <item name="accentSoft">@color/accent_soft</item>
+    </style>
+</resources>

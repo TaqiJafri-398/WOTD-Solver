@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom theme attributes for the card design system -->
+    <attr name="cardBackground" format="color" />
+    <attr name="cardStroke" format="color" />
+    <attr name="accentSoft" format="color" />
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="binance_yellow">#F0B90B</color>
+    <color name="binance_green">#2EBD85</color>
+
+    <!-- Dark theme -->
+    <color name="bg_dark">#0B0E11</color>
+    <color name="card_dark">#1E2329</color>
+    <color name="surface_dark">#141A21</color>
+    <color name="stroke_dark">#2A3340</color>
+    <color name="text_dark">#EAECEF</color>
+    <color name="text_secondary_dark">#9AA4B2</color>
+
+    <!-- Light theme -->
+    <color name="bg_light">#F4F6F9</color>
+    <color name="card_light">#EDEFF3</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="stroke_light">#E0E5EC</color>
+    <color name="text_light">#1A202C</color>
+    <color name="text_secondary_light">#5B6572</color>
+
+    <!-- Shared -->
+    <color name="accent_soft">#24F0B90B</color>
+
+    <!-- Tiles -->
+    <color name="tile_green">#2EBD85</color>
+    <color name="tile_yellow">#F0B90B</color>
+    <color name="tile_gray">#474D57</color>
+    <color name="tile_text">#FFFFFF</color>
+
+    <!-- Buttons -->
+    <color name="btn_secondary_bg">#2C353F</color>
+    <color name="btn_secondary_text">#FFFFFF</color>
+    <color name="btn_primary_text">#1E2329</color>
+
+    <color name="danger">#F6465D</color>
+</resources>
